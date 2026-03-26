@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EjerciciosCompose</string>
+
+    <string name="article_title">Tutorial de Jetpack Compose</string>
+    <string name="article_short_desc">Jetpack Compose es un kit de herramientas moderno para compilar IU de Android nativas. Compose simplifica y acelera el desarrollo de la IU en Android con menos código, herramientas potentes y APIs de Kotlin intuitivas.</string>
+    <string name="article_long_desc">En este tutorial, compilarás un componente de IU simple con funciones declarativas. Puedes llamar a las funciones de Compose para indicar los elementos que deseas y el compilador de Compose hace el resto. Compose se basa en funciones de componibilidad. Estas funciones te permiten definir la IU de tu app de manera programática, ya que te permiten describir su aspecto y proporcionar dependencias de datos, en lugar de enfocarte en el proceso de construcción de la IU, como inicializar un elemento y, luego, conectarlo a un elemento superior. Para crear una función de componibilidad, debes agregar la anotación @Composable al nombre de la función.</string>
+</resources>
